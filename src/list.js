@@ -1,0 +1,1 @@
+export const list=["bangalore","Chennai","hyderabad"];
